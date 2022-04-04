@@ -1,0 +1,1 @@
+# QR__code__component
